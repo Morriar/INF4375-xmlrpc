@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<catalog>
+	<album id="1">
+		<title>Hide your heart</title>
+		<artist>Bonnie Tyler</artist>
+		<instock>false</instock>
+		<price>9.90</price>
+		<year>1988</year>
+	</album>
+	<album id="2">
+		<title>Greatest Hits</title>
+		<artist>Dolly Parton</artist>
+		<instock>true</instock>
+		<price>9.90</price>
+		<year>1982</year>
+	</album>
+	<album id="3">
+		<title>Still got the blues</title>
+		<artist>Gary Moore</artist>
+		<instock>true</instock>
+		<price>10.20</price>
+		<year>1990</year>
+	</album>
+	<album id="4">
+		<title>Eros</title>
+		<artist>Eros Ramazzotti</artist>
+		<instock>true</instock>
+		<price>9.90</price>
+		<year>1997</year>
+	</album>
+	<album id="5">
+		<title>One night only</title>
+		<artist>Bee Gees</artist>
+		<instock>false</instock>
+		<price>10.90</price>
+		<year>1998</year>
+	</album>
+</catalog>
